@@ -9,7 +9,7 @@ import Help from './Components/pages/Help'
 import Cart from './Components/pages/Cart'
 import Corporate from './Components/pages/Corporate'
 import SignIn from './Components/pages/SignIn'
-import Offers from './Components/pages/offers'
+import Offers from './Components/pages/Offers'
 import Home from './Components/pages/Home'
 function App() {
     return (
